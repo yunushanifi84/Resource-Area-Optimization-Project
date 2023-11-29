@@ -97,12 +97,12 @@ must be shown to the user.
 
 Sample Project Work:
 
-![image](https://github.com/yunushanifi84/Resource-Area-Optimization-Project/assets/69470694/86bad714-9b45-4d66-b362-0cba7e4b5c0c)\n
-![image](https://github.com/yunushanifi84/Resource-Area-Optimization-Project/assets/69470694/975311ac-b85f-4db4-9b3a-7ca75270b317)\n
-and step 2 for this polygons:
-![image](https://github.com/yunushanifi84/Resource-Area-Optimization-Project/assets/69470694/3a3292ba-7160-4c29-8991-07e97c1fa78f)\n
-![image](https://github.com/yunushanifi84/Resource-Area-Optimization-Project/assets/69470694/0738f9bd-deb2-46c0-a4f6-4f920f754ff2)\n
-and multiple polygons:
-![image](https://github.com/yunushanifi84/Resource-Area-Optimization-Project/assets/69470694/99bfd2ae-4e72-49e7-b553-297ef9c1cdae)\n
-![image](https://github.com/yunushanifi84/Resource-Area-Optimization-Project/assets/69470694/8c613194-f9ba-4350-b266-10a5f738a0fe)\n
+![image](https://github.com/yunushanifi84/Resource-Area-Optimization-Project/assets/69470694/86bad714-9b45-4d66-b362-0cba7e4b5c0c)
+![image](https://github.com/yunushanifi84/Resource-Area-Optimization-Project/assets/69470694/975311ac-b85f-4db4-9b3a-7ca75270b317)
+
+![image](https://github.com/yunushanifi84/Resource-Area-Optimization-Project/assets/69470694/3a3292ba-7160-4c29-8991-07e97c1fa78f)
+![image](https://github.com/yunushanifi84/Resource-Area-Optimization-Project/assets/69470694/0738f9bd-deb2-46c0-a4f6-4f920f754ff2)
+
+![image](https://github.com/yunushanifi84/Resource-Area-Optimization-Project/assets/69470694/99bfd2ae-4e72-49e7-b553-297ef9c1cdae)
+![image](https://github.com/yunushanifi84/Resource-Area-Optimization-Project/assets/69470694/8c613194-f9ba-4350-b266-10a5f738a0fe)
 
