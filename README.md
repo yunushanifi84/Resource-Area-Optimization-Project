@@ -64,10 +64,8 @@ Further documentation on the project's structure and code can be found in the so
 
 ## Contributors
 
-- Eyüp Ensar Kara (220201061)
-- Yunus Hanifi Öztürk (220201083)
+- Eyüp Ensar Kara 
+- Yunus Hanifi Öztürk 
 
-## License
 
-(Include license information here, or state if the project is open-source or proprietary.)
 
