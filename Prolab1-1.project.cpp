@@ -1,5 +1,4 @@
-﻿//220201061 Eyüp Ensar Kara
-//220201083 Yunus Hanifi Öztürk
+﻿
 
 #pragma warning(disable:4996)  //Uyarıyı devre dışı bırakmak için (scanf ve sscanf fonksiyonları için)
 
